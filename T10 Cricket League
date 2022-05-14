@@ -1,1 +1,44 @@
+<html>
+<head>
+<style>
+body {background-color:red;}
+h1 {color:blue ; font size:150px; font-family:Comic Sans MS;}
+  img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+<title> INTERNATIONAL </title>
+</head>
+<body>
+<table border=2 border color=orange width="70%"algin="center">
+<h1 align="center"> INTERNATIONAL </h1>
+  <h1> here is the list of some INTERNATIONAL teams and their captains </h1>
+  <tr> <td> team name  </td> <td>  captains name </td>
+    
+  </tr> <tr> <td> <img src="CB.png"width="200" height= "200">
+  </img> </td>  <td> Rohit Sharma </td> </tr>
+  
+  <tr> <td> <img src="BT.png" width="200" height= "200"> </img> </td>
+  <td>  Shakib Hasan </td>
+</tr>  
+ <tr> <td> <img src="DB.png"width="200" height= "200">
+  </img> </td>  <td> Kane Wiliomson  </td> </tr>
 
+<tr> <td> <img src="ENG.png"width="200" height= "200">
+  </img> </td>  <td> Eion Morgan </td> </tr>
+
+<tr> <td> <img src="SL.png"width="200" height= "200">
+  </img> </td>  <td> Dimuth Karunaratne </td> </tr>
+
+<tr> <td> <img src="AUS.png"width="200" height= "200">
+  </img> </td>  <td> Aaron Finch </td> </tr>
+
+<tr> <td> <img src="WI.png"width="200" height= "200">
+  </img> </td>  <td> Nicholas Pooran </td> </tr> 
+
+</table>
+<a href="index.html"> click here to go to home page </a>
+</body>
+</html>
